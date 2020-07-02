@@ -30,4 +30,10 @@ class SessionsController extends Controller
 
     	return $return;
     }
+
+    public function destroy(){
+
+    	
+    	return;
+    }
 }
